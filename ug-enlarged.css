@@ -1,8 +1,8 @@
-@import "modular_base/category_icons.css";
-@import "modular_base/forum_icons.css";
-@import "modular_base/ratio_colors.css";
-@import "modular_base/userclasses.css";
-@import "modular_base/expansion.css";
+@import "https://retrowithin.com/css/modular_base/category_icons.css";
+@import "https://retrowithin.com/css/modular_base/forum_icons.css";
+@import "https://retrowithin.com/css/modular_base/ratio_colors.css";
+@import "https://retrowithin.com/css/modular_base/userclasses.css";
+@import "https://retrowithin.com/css/modular_base/expansion.css";
 table{
     border-spacing:0;
     border-collapse:collapse;
@@ -1589,7 +1589,7 @@ div .oldpaste{
     max-height:150px
 }
 
-// base.css beatified and copy pasted above
+
 
 @import url(base.css);
 @import url(modular_base/category_icons.css);	/* category icons                   */
